@@ -36,8 +36,11 @@ Summer courses where done in the summers of 2024, and 2025, where student experi
 
 ### Academic Posters
 - [Advancing Animal Classification Systems
-Through AI Models and Computer Vision Poster
+Through AI Models and Computer Vision Poster 2025
 ](https://docs.google.com/presentation/d/1X2m73qZ_ItefHphCt3jdWBJq9Eaj4a5RoaDnrnjmg68/edit?usp=sharing)
+- [Advancing Animal Classification Systems
+Through AI Models and Computer Vision Poster
+2024](https://docs.google.com/presentation/d/1PrRdLLzZZwnmFdewJx_5Pv386zx_-lUoMW6ttiDjDBI/edit?usp=sharing)
 
 ### Additional Tools 
 - [rtsp-stream-to-youtube](https://github.com/ereedsanchez/wyze-rtsp-stream-to-youtube) Script to stream RTSP video streams to youtube.
