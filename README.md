@@ -14,12 +14,11 @@ This repository documents a two-year CUNY Research Scholars Program (CRSP) proje
 - [Cuny Research Scholars Program (CRSP) Proposal 2024-2025](https://docs.google.com/document/d/1gHF6J3HmxAmjpj4pMCxD14Qhg99zvS1f39z_1naYhxo/edit?usp=sharing)
 
 ### Literature Review
-This initial literature review was conducted by MD, and Abdon Vizcorando
-[AI-Forest-Cam-Literature-Review](https://github.com/ereedsanchez/AI-Forest-Cam-Litterature-Review/tree/main)
+- [AI-Forest-Cam-Literature-Review](https://github.com/ereedsanchez/AI-Forest-Cam-Litterature-Review/tree/main)
+  This initial literature review was conducted by MD, and Abdon Vizcorando
 
 ### Reports
-- Black Rock Forest Redden Grant Report
+- [Black Rock Forest Redden Grant Report](https://docs.google.com/document/d/15IkCpGMCDkm8erarC1mEj0kqz4jUdr_CKkKSLedYVns/edit?usp=sharing)
 
   This project recieved additional funding from the Black Rock Forest Redden Grant in 2023.
-  Here is the final report. It adequatly sumarizes project accomplishments
-  [BRF-AI-Camera-Report](https://docs.google.com/document/d/15IkCpGMCDkm8erarC1mEj0kqz4jUdr_CKkKSLedYVns/edit?usp=sharing)
+  Here is the final report. It adequatly sumarizes project accomplishments.
