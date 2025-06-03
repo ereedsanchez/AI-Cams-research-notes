@@ -10,4 +10,5 @@ This repository documents a two-year CUNY Research Scholars Program (CRSP) proje
 - Jorge Grullon
 - Nagib Gonzalez
 
-### Reports
+### Original Proposals 
+- Cuny Research Scholars Program (CRSP) Proposal 2024-2025: https://docs.google.com/document/d/1gHF6J3HmxAmjpj4pMCxD14Qhg99zvS1f39z_1naYhxo/edit?usp=sharing
