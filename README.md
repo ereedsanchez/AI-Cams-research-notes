@@ -34,6 +34,10 @@ Summer courses where done in the summers of 2024, and 2025, where student experi
 - [Science Technology and Ecology](https://github.com/ereedsanchez/Science-Technology-and-Ecology) - Precurser to AI-Camera courses. Based on Arduino sensor kits.
 - [Critter Cams](https://github.com/ereedsanchez/CritterCam) - Work in Progress - Documentation of Crittercams used in Black Rock Forest.
 
+### Academic Posters
+- [Advancing Animal Classification Systems
+Through AI Models and Computer Vision Poster
+](https://docs.google.com/presentation/d/1X2m73qZ_ItefHphCt3jdWBJq9Eaj4a5RoaDnrnjmg68/edit?usp=sharing)
 
 ### Additional Tools 
 - [rtsp-stream-to-youtube](https://github.com/ereedsanchez/wyze-rtsp-stream-to-youtube) Script to stream RTSP video streams to youtube.
