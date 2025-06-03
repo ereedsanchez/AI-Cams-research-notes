@@ -30,4 +30,9 @@ This repository documents a two-year CUNY Research Scholars Program (CRSP) proje
 ### Courses
 Summer courses where done in the summers of 2024, and 2025, where student experimented with AI camera solutions.  Below are links to curriculams and final resources.  
 - [AI-Critters : STEP Summer 2024](https://github.com/ereedsanchez/AI-Critters-STEP-2024)
-- [Science Technology and Ecology](https://github.com/ereedsanchez/Science-Technology-and-Ecology) - Precurser to AI-Camera courses. Based on Arduino sensor kits.  
+- [Science Technology and Ecology](https://github.com/ereedsanchez/Science-Technology-and-Ecology) - Precurser to AI-Camera courses. Based on Arduino sensor kits.
+- [Critter Cams](https://github.com/ereedsanchez/CritterCam) - Work in Progress - Documentation of Crittercams used in Black Rock Forest.
+
+
+### Additional Tools 
+- [rtsp-stream-to-youtube](https://github.com/ereedsanchez/wyze-rtsp-stream-to-youtube) Script to stream RTSP video streams to youtube. 
