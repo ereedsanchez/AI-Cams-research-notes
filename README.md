@@ -29,7 +29,8 @@ This repository documents a two-year CUNY Research Scholars Program (CRSP) proje
 
 ### Courses
 Summer courses where done in the summers of 2024, and 2025, where student experimented with AI camera solutions.  Below are links to curriculams and final resources.  
-- [AI-Critters : STEP Summer 2024](https://github.com/ereedsanchez/AI-Critters-STEP-2024)
+- [AI-Critters : STEP Summer 2024 Curriculam](https://github.com/ereedsanchez/AI-Critters-STEP-2024)
+- [AI-Critters : STEP Summer 2024 Presentation](https://docs.google.com/presentation/d/1uootLNfX87BtUUzckVs5OC5VaLY_xtEMPsQVox_nhOI/edit?usp=sharing)
 - [Science Technology and Ecology](https://github.com/ereedsanchez/Science-Technology-and-Ecology) - Precurser to AI-Camera courses. Based on Arduino sensor kits.
 - [Critter Cams](https://github.com/ereedsanchez/CritterCam) - Work in Progress - Documentation of Crittercams used in Black Rock Forest.
 
