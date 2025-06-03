@@ -19,3 +19,6 @@ This repository documents a two-year CUNY Research Scholars Program (CRSP) proje
 ### Reports
 - [Black Rock Forest Redden Grant Report](https://docs.google.com/document/d/15IkCpGMCDkm8erarC1mEj0kqz4jUdr_CKkKSLedYVns/edit?usp=sharing) - This project recieved additional funding from the Black Rock Forest Redden Grant in 2023.
   Here is the final report. It adequatly sumarizes project accomplishments.
+
+### Documentation 
+- [Forest-Buddy-Server](https://github.com/ereedsanchez/Forest-Buddy-Server) - Forest Buddy, was the first attempt at creating a functional server to intake images and use AI to process images.  This documentation has hardware and software specifications and instructions.  Includes installation of NVDIA, CUDU, Python, Tensorflow, etc..
