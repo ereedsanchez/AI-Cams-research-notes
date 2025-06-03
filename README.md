@@ -26,3 +26,8 @@ This repository documents a two-year CUNY Research Scholars Program (CRSP) proje
 - [AMB82-ForestBuddy](https://github.com/ereedsanchez/AMB82-ForestBuddy) - Arduino code repository for AMB82-Mini firmware.  The AMB82-Mini is the cameraboard of choice for low-cost, but high quality video for develppment of a complete AI Camera solution.
 
 - [WyzeCam-Forest-Buddy](https://github.com/ereedsanchez/WyzeCam-Forest-Buddy) - WyzeCam is a low-cost wifi camera. For this project we used a hacked firmware to convert the wyzecam to open system to send images to server, as well as provide a RTSP stream.  Original clone from [Defang-Hacks](https://github.com/ereedsanchez/Forest-Buddy-Dafang-Hacks)
+
+### Courses
+Summer courses where done in the summers of 2024, and 2025, where student experimented with AI camera solutions.  Below are links to curriculams and final resources.  
+- [AI-Critters : STEP Summer 2024](https://github.com/ereedsanchez/AI-Critters-STEP-2024)
+- [Science Technology and Ecology](https://github.com/ereedsanchez/Science-Technology-and-Ecology) - Precurser to AI-Camera courses. Based on Arduino sensor kits.  
