@@ -39,3 +39,4 @@ Summer courses where done in the summers of 2024, and 2025, where student experi
 
 ### Additional Website
 - [Black Rock Forest Wifi Network Site](https://blackrock.treefi.net/)
+- [Critter Cam Youtube page](https://www.youtube.com/channel/UCa2ZBux_xDUielNOPe4S9aQ?view_as=subscriber)
