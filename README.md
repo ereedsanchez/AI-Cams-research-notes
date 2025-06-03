@@ -23,4 +23,6 @@ This repository documents a two-year CUNY Research Scholars Program (CRSP) proje
 ### Documentation 
 - [Forest-Buddy-Server](https://github.com/ereedsanchez/Forest-Buddy-Server) - Forest Buddy, was the first attempt at creating a functional server to intake images and use AI to process images.  This documentation has hardware and software specifications and instructions.  Includes installation of NVDIA, CUDU, Python, Tensorflow, etc..
 
-- [AMB82-ForestBuddy](https://github.com/ereedsanchez/AMB82-ForestBuddy) - Arduino code repository for AMB82-Mini firmware.  The AMB82-Mini is the cameraboard of choice for low-cost, but high quality video for develppment of a complete AI Camera solution.  
+- [AMB82-ForestBuddy](https://github.com/ereedsanchez/AMB82-ForestBuddy) - Arduino code repository for AMB82-Mini firmware.  The AMB82-Mini is the cameraboard of choice for low-cost, but high quality video for develppment of a complete AI Camera solution.
+
+- [WyzeCam-Forest-Buddy](https://github.com/ereedsanchez/WyzeCam-Forest-Buddy) - WyzeCam is a low-cost wifi camera. For this project we used a hacked firmware to convert the wyzecam to open system to send images to server, as well as provide a RTSP stream. 
