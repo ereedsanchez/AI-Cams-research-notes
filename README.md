@@ -16,3 +16,9 @@ This repository documents a two-year CUNY Research Scholars Program (CRSP) proje
 ### Literature Review
 This initial literature review was conducted by MD, and Abdon Vizcorando
 [AI-Forest-Cam-Literature-Review](https://github.com/ereedsanchez/AI-Forest-Cam-Litterature-Review/tree/main)
+
+### Reports
+- Black Rock Forest Redden Grant Report
+  This project recieved additional funding from the Black ROck Forest Redden Grant in 2023.
+  Here is the final report. It adequatly sumarizes project accomplishments
+  BRF-AI-Camera-Report.pdf
