@@ -15,7 +15,7 @@ This repository documents a two-year CUNY Research Scholars Program (CRSP) proje
 
 ### Literature Review
 - [AI-Forest-Cam-Literature-Review](https://github.com/ereedsanchez/AI-Forest-Cam-Litterature-Review/tree/main)
-  This initial literature review was conducted by MD, and Abdon Vizcorando
+  &nbsp This initial literature review was conducted by MD, and Abdon Vizcorando
 
 ### Reports
 - [Black Rock Forest Redden Grant Report](https://docs.google.com/document/d/15IkCpGMCDkm8erarC1mEj0kqz4jUdr_CKkKSLedYVns/edit?usp=sharing)
