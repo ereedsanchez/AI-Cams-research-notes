@@ -35,4 +35,7 @@ Summer courses where done in the summers of 2024, and 2025, where student experi
 
 
 ### Additional Tools 
-- [rtsp-stream-to-youtube](https://github.com/ereedsanchez/wyze-rtsp-stream-to-youtube) Script to stream RTSP video streams to youtube. 
+- [rtsp-stream-to-youtube](https://github.com/ereedsanchez/wyze-rtsp-stream-to-youtube) Script to stream RTSP video streams to youtube.
+
+### Additional Website
+- [Black Rock Forest Wifi Network Site](https://blackrock.treefi.net/)
