@@ -19,6 +19,7 @@ This initial literature review was conducted by MD, and Abdon Vizcorando
 
 ### Reports
 - Black Rock Forest Redden Grant Report
-  This project recieved additional funding from the Black ROck Forest Redden Grant in 2023.
+
+  This project recieved additional funding from the Black Rock Forest Redden Grant in 2023.
   Here is the final report. It adequatly sumarizes project accomplishments
   [BRF-AI-Camera-Report](https://docs.google.com/document/d/15IkCpGMCDkm8erarC1mEj0kqz4jUdr_CKkKSLedYVns/edit?usp=sharing)
